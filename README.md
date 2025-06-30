@@ -2,33 +2,33 @@ http://localhost:5000/
 
 
 # Data Seeding
-POST	/product	
+- POST	/product	
 
 # Product CRUD Operations	
-GET	    /product	
-GET	    /product/:productId	
+- GET	    /product	
+- GET	    /product/:productId	
 
 # Create a new product.
-POST	/create	
+- POST	/create	
 
 # Mens Category
 
-GET	/product/mens	
-GET	/product/mens/cloths	
-GET	/product/mens/shoes
-GET	/product/mens/gift	
+- GET	/product/mens	
+- GET	/product/mens/cloths	
+- GET	/product/mens/shoes
+- GET	/product/mens/gift	
 
 # Womens Category
 
-GET	/product/womens	
-GET	/product/womens/cloths	
-GET	/product/womens/shoes	
-GET	/product/womens/gift	
+- GET	/product/womens	
+- GET	/product/womens/cloths	
+- GET	/product/womens/shoes	
+- GET	/product/womens/gift	
 
 # Kids Category
 
-GET	/product/kids	
-GET	/product/kids/cloths	
-GET	/product/kids/shoes	
-GET	/product/kids/gift	
+- GET	/product/kids	
+- GET	/product/kids/cloths	
+- GET	/product/kids/shoes	
+- GET	/product/kids/gift	
 
