@@ -1,5 +1,7 @@
 http://localhost:5000/
 
+# Create a new product.
+- POST	/create	
 
 # Data Seeding
 - POST	/product	
@@ -7,9 +9,6 @@ http://localhost:5000/
 # Product CRUD Operations	
 - GET	    /product	
 - GET	    /product/:productId	
-
-# Create a new product.
-- POST	/create	
 
 # Mens Category
 
